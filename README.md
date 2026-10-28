@@ -1,13 +1,14 @@
 
-# Pehmis Sofle V2 case
+# Pehmis Sofle V2 case (BLE)
 
-<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="Licence" height="25"/></a><a href="https://www.paypal.com/donate/?hosted_button_id=LNPV4WR7C95VA"><img src="https://img.shields.io/badge/Donate-PayPal-blue" alt="Donate button" align="right" height="25"/></a>
+<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="Licence" height="25"/></a>
 
-A 3D printed, seamless case with magnetic wrist rests for the Sofle V2 keyboard
+The Pehmis Sofle Case, but I replaced the Headphone jack access point to support a switch and reset, for my BLE build.
 
-![](_Images/sofle1.png)
-
+And a knob that fits mine
 ---
+
+### --> [Original Pehmis repository](https://github.com/Pelicram/Pehmis-Sofle-Case)
 
 ### --> [Original Sofle keyboard repository](https://github.com/josefadamcik/SofleKeyboard)
 
